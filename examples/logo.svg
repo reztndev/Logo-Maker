@@ -1,0 +1,7 @@
+<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+
+<polygon points="70,70 210,70 210,210 70,210" fill="blue" />
+
+<text x="140" y="150" font-size="50" text-anchor="middle" fill="yellow">TEC</text>
+
+</svg>

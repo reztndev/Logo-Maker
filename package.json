@@ -1,0 +1,21 @@
+{
+    "name": "svg-logo-maker",
+    "version": "1.0.0",
+    "description": "A command line SVG logo generator. Answer the prompts to indicate the shape, color of shape, logo text and color of the logo text to generate the logo.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "jest"
+    },
+    "keywords": [],
+    "author": "Mehrdod Rezvany",
+    "license": "MIT",
+    "dependencies": {
+      "inquirer": "^8.2.4"
+    },
+    "devDependencies": {
+      "jest": "^28.1.3"
+    }
+  }
+  
+  
