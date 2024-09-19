@@ -30,4 +30,4 @@ The program will make use of the OOP extenstion of JavaScript by creating a "Sha
 Other technologies used in this application include, (Inquirer) for implmenting the CLI prompts, and Jest framework for running the unit tests.
 
 ## Recorded Video of the CLI Execution 
-A recorded video of the CLI execution to illustrate the implemented requirements is available via the following link: https://app.screencastify.com/v2/manage/videos/yzv7A9MIpNTVYG1PAKoZ
+A recorded video of the CLI execution to illustrate the implemented requirements is available via the following link: https://drive.google.com/file/d/1UTn_JTtyrUSMRQso9BJXjkOR558azMKD/view
